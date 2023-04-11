@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ClarkJohannes
 - 👀 I’m interested in making music
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nobody yet...
-- 📫 Reach me on YouTube as Clark Johannes
+- 💞️ I’m looking to collaborate with nobody yet...
+- 📫 Reach me in YouTube as Clark Johannes
